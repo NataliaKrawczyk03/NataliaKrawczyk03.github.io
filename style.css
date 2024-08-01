@@ -1,0 +1,33 @@
+body
+{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center ;
+}
+div
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(226, 200, 166);
+}
+
+#time
+{
+    font-size: 100px;
+    margin-top: 230px;
+}
+
+#date
+{
+    font-size: 35px;
+}
+h1
+{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(226, 200, 166);
+    text-align: right;
+    margin-top: 250px;
+    margin-right: 20px;
+    font-size: 25px;
+}
